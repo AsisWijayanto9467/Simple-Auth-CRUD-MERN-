@@ -22,8 +22,8 @@ Projek Website Dengan fitur Authentikasi serta CRUD dengan metode MERN.
 - react-router-dom
 
 ## Run node.js
-node seeder/userSeeder
-node server
+- node seeder/userSeeder
+- node server
 
 # Run React
 npm run dev
